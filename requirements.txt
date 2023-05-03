@@ -1,5 +1,5 @@
 pytorch_lightning 
-torchmetrics==0.7
+torchmetrics
 omegaconf
 shortuuid
 tqdm
